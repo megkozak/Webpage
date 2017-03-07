@@ -1,0 +1,43 @@
+/*Styling for Meg's Webpage. */
+
+body {
+    background-color: #1695A3;
+    color: white;
+}
+
+h1 {
+    font-family: "Verdana", Geneva, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-family: Georgia;
+    text-align: center;
+}
+
+img.wrap {
+    float: left;
+    border: 5px solid white;
+    margin: 20px 20px;
+}
+
+div.container {
+    float: left;
+    width: 70%;
+}
+
+p.one {
+    font-family: Georgia;
+}
+
+p.two {
+    font-family: Georgia;
+}
+
+a {
+    color: white;
+}
+
+.clear {
+    clear: both;
+}
