@@ -2,7 +2,7 @@ body {
     font-family: sans-serif;
 }
 
-.images div {
+.assets div {
     float: left;
     width: 200px;
     height: 170px;
@@ -10,7 +10,7 @@ body {
     margin: 10px;
 }
 
-.images img {
+.assets img {
     height: 165px;
     width: 100%;
 }
